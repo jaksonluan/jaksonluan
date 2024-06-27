@@ -1,10 +1,10 @@
 ## Olá, eu sou Jakson Luan 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=transparent"/>
+  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=transparent"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaksonluan&layout=compact&langs_count=8&theme=transparent" />
+  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaksonluan&layout=compact&langs_count=8&theme=transparent" />
 </a>
 
 <div style="display: inline_block"><br>
