@@ -21,6 +21,6 @@ Sou desenvolvedor de software front-end apaixonado por transformar ideias em int
 ---
 
 
-![Snake animation](https://jaksonluan.github.io/jaksonluan/dist/snake.svg)
+![Snake animation](https://jaksonluan.github.io/jaksonluan/snake.svg)
 
 ---
