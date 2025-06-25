@@ -16,6 +16,6 @@ Sou desenvolvedor de software front-end apaixonado por transformar ideias em int
 - 🤝 Aberto a colaborações em projetos interessantes!
 
 ## 📈 Estatísticas do GitHub
-![jaksonluan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=default)
+![jaksonluan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=dark)
 
 ---
