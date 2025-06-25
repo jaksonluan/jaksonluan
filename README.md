@@ -19,4 +19,8 @@ Sou desenvolvedor de software front-end apaixonado por transformar ideias em int
 ![jaksonluan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=dark)
 
 ---
+## 🐍 Snake Game dos Commits
+
 ![Snake animation](https://github.com/jaksonluan/jaksonluan/blob/output/github-contribution-grid-snake.svg)
+
+---
