@@ -48,7 +48,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          repo: jaksonluan/jaksonluan
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
