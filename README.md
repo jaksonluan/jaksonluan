@@ -26,10 +26,10 @@ Sou desenvolvedor de software front-end apaixonado por transformar ideias em int
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
+<div>
   <a href="https://github.com/jaksonluan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaksonluan&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaksonluan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaksonluan&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
