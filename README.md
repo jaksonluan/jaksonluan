@@ -16,7 +16,7 @@ Sou desenvolvedor de software front-end apaixonado por transformar ideias em int
 
 - 🎯 Foco em desenvolvimento front-end moderno, responsivo e performático.
 - 🔄 Buscando sempre evoluir, aprender novas tecnologias e compartilhar conhecimento.
-- 🤝 Aberto a colaborações em projetos interessantes!
+
 
 <div><br>
   <a href="https://www.linkedin.com/in/jaksonluan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
